@@ -11,7 +11,6 @@ import IconButton from "@mui/material/IconButton"
 import { Delete, Edit } from '@mui/icons-material';
 
 
-
 function Products() {
   const columns= [
   { accessorKey: 'nombre', header: 'nombre' },
