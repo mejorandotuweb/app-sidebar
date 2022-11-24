@@ -4,10 +4,6 @@ import Home from "./paginas/home/Home"
 import Bitacora from "./paginas/consejeria/bitacora/Bitacora"
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Login from "./paginas/Login"
-/*;
-import Reports from './paginas/reports/Reports';
-import Products from './paginas/products/Products';
-import PrivateRoute from "./paginas/PrivateRoute.page";*/
 
 
 function App() {
